@@ -1,0 +1,2 @@
+# ostrovok
+test exercises
